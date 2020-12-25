@@ -7,18 +7,17 @@ tagline: 用科学的眼睛看世界。
 features: # 可选的
   - title: 科学
     details: JavaScript、ES6、Vue框架等前端技术
-    imgUrl: /img/web.png # 可选
+    imgUrl: /img/007-innovation.svg # 可选
   - title: 生产
     details: html(5)/css(3)，前端页面相关技术
-    imgUrl: /img/ui.png
+    imgUrl: /img/007-software.svg
   - title: 斗争
     details: 技术文档、教程、技巧、总结等文章
-    imgUrl: /img/other.png
+    imgUrl: /img/024-effort.svg
 
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 postList: detailed
 ---
-
 
 <!-- 小熊猫 -->
 <!-- <img src="/img/panda-waving.png" class="panda no-zoom" style="width: 130px;height: 115px;opacity: 0.8;margin-bottom: -4px;padding-bottom:0;position: fixed;bottom: 0;left: 0.5rem;z-index: 1;"> -->
@@ -36,7 +35,6 @@ postList: detailed
 <a href="https://github.com/xugaoyi/vuepress-theme-vdoing" target="_blank"><img src='https://img.shields.io/github/forks/xugaoyi/vuepress-theme-vdoing' alt='GitHub forks' class="no-zoom"></a>
 
 </br>
-
 
 ## 特色功能
 博客部分特色功能介绍
@@ -67,7 +65,6 @@ postList: detailed
 </style>
 ```
 :::
-
 
 ## :email: 联系
 

@@ -95,7 +95,7 @@ module.exports = {
       // 页脚信息
       createYear: 2020, // 博客创建年份
       copyrightInfo:
-        'YouthReader | <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/blob/master/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
+        'YouthReader | <a href="https://github.com/xugaoyi/vuepress-theme-vdoing/blob/master/LICENSE" target="_blank">MIT License</a> <br /> <div>Icons made by <a href="https://www.flaticon.com/authors/geotatah" title="geotatah">geotatah</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>', // 博客版权信息，支持a标签
     },
   },
   plugins: [
